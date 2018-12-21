@@ -18,7 +18,7 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
   left: 10px;
   top: 10px;
   -webkit-user-select: none;
-  background-image: url("images/logo.svg"); }
+  background-image: url("images/fpc_logo.png"); }
 
 .reveal .logo div {
   position: absolute;
