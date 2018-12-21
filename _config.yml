@@ -1,9 +1,9 @@
 # Site settings
-title: 18F Slides
-email: vladlen.zvenyach@gsa.gov
+title: Agency Privacy Programs: General Requirements
+email: privacy.council@gsa.gov
 
 description: > # this means to ignore newlines until "baseurl:"
-  Slide decks for 18F and TTS!
+  "Agency Privacy Programs: General Requirements"
 
 baseurl: "/slides"
 url: "https://slides.18f.gov"
