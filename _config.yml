@@ -2,9 +2,6 @@
 title: Agency Privacy Programs: General Requirements
 email: privacy.council@gsa.gov
 
-description: > # this means to ignore newlines until "baseurl:"
-  "Agency Privacy Programs: General Requirements"
-
 baseurl: "/slides"
 url: "https://slides.18f.gov"
 
